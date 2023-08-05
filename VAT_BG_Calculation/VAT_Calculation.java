@@ -1,9 +1,11 @@
+package VAT_BG_Calculation;
+
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class VAT_CALC {
+public class VAT_Calculation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -54,3 +56,5 @@ public class VAT_CALC {
 
     }
 }
+
+
